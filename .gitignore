@@ -1,0 +1,9 @@
+# Folders
+data/*
+!data/.gitkeep
+
+output/*
+!output/.gitkeep
+
+# Jupyter Notebook
+.ipynb_checkpoints
