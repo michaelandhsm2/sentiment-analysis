@@ -7,3 +7,5 @@ output/*
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+ipyparallel-tutorial-master/
